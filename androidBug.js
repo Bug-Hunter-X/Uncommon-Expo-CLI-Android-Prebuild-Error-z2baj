@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `expo prebuild` command and involves issues with the Android build system or incorrect configuration of the Android project. The exact cause can vary, but often involves problems with Gradle, dependencies, or the Android SDK setup.
